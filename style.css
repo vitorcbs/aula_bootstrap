@@ -1,0 +1,52 @@
+.navbar {
+    background-color: rgb(183, 238, 201);
+}
+
+.basso{
+    background-color: rgb(190, 190, 245);
+}
+
+.margin{
+    padding-top: 20px;
+    padding-bottom: 50px;
+    margin: 0px;
+}
+
+.txtbasso{
+    padding-top: 15px;
+    font-family: Arial;
+    font-size: medium;
+    text-align: center;
+    width: 300px;
+}
+
+.ttbasso {
+    padding-bottom: 30px;
+}
+
+.container-sm-ney {
+    width: 50%;
+    display: flex;
+    padding-top: 20px;
+}
+
+.messi{
+    background-color: rgb(192, 151, 121);
+}
+ .txtcla{
+     text-align:center;
+ }
+
+ .clafairy{
+     background-color: plum;
+ }
+
+ .bg-footer{
+     background-color: rgb(107, 100, 100);
+ }
+
+ .marginfoot{
+     padding-top: 10px;
+     padding-bottom: 10px;
+     margin: 0px;
+ }
